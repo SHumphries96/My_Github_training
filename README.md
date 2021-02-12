@@ -13,3 +13,7 @@ By the end of this introductory session you will:
       Forked and edited a repo
       Created your own live webpage (GitHub page)
       And hopefully - realise the versatility and benefits of GitHub!! :)
+
+
+## My favourite animal: Dog
+## I like because: My whole life I've grown up with a dog in the family. Plus, who doesn't love dogs. 
